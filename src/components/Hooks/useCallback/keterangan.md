@@ -1,0 +1,1 @@
+useCallback sama aja dengan use memo, tapi buat fuction
